@@ -4,3 +4,10 @@ node_modules/
 .idea/jsLibraryMappings.xml
 
 .idea/vcs.xml
+
+config
+!config/default.*
+logs
+npm-debug.log
+public/img
+coverage
